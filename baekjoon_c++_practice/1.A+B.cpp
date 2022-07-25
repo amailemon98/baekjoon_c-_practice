@@ -1,4 +1,4 @@
-#include<iostream>
+/*#include<iostream>
 
 int main() {
 	int a;
@@ -13,4 +13,16 @@ int main() {
 	sum = a + b;
 	std::cout << sum;
 
-}
+}*/
+/*
+#include <iostream>
+
+int main() {
+	int a;
+	int b;
+	int sum;
+
+	std::cin >> a >> b;
+	sum = a + b;
+	std::cout << sum;
+}*/

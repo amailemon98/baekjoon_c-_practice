@@ -140,6 +140,19 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="1.A+B.cpp" />
+    <ClCompile Include="A-B.cpp" />
+    <ClCompile Include="AdivB.cpp" />
+    <ClCompile Include="AxB.cpp" />
+    <ClCompile Include="Hello World.cpp" />
+    <ClCompile Include="N찍기.cpp" />
+    <ClCompile Include="TimesTable.cpp" />
+    <ClCompile Include="사칙연산.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="baekjoon_c++_practice.rc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
