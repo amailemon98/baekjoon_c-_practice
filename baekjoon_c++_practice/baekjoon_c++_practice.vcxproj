@@ -146,6 +146,7 @@
     <ClCompile Include="Hello World.cpp" />
     <ClCompile Include="N찍기.cpp" />
     <ClCompile Include="TimesTable.cpp" />
+    <ClCompile Include="나머지.cpp" />
     <ClCompile Include="사칙연산.cpp" />
   </ItemGroup>
   <ItemGroup>
